@@ -1,7 +1,7 @@
 #YT-DLP GUI
 
 Its a GUI for the simplified using of yt-dlp library of this github
-https://github.com/yt-dlp/yt-dlp 
+https://github.com/yt-dlp/yt-dlp, made using AI.
 
 
 Pre-requirements
