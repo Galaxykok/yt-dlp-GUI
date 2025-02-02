@@ -8,11 +8,13 @@ Pre-requirements
 
 -Python
 
+-ffmpeg
+
 -yt-dlp
 
 
 Instalation
 
-Before use the code, use pip install pip install yt-dlp
+Create a folder an put the code file in there, before use the code, use pip install pip install yt-dlp.
 
 Enjoy.
